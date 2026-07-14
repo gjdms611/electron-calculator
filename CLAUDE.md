@@ -3,8 +3,9 @@
 이 프로젝트는 Electron 기반 데스크탑 계산기 앱이다.
 
 기획/요구사항/아키텍처는 [doc/PRD.md](doc/PRD.md), 모듈별 인터페이스/함수 시그니처는
-[doc/SPEC.md](doc/SPEC.md), phase별 구현 계획은 [doc/PLAN.md](doc/PLAN.md) 참고. 각 phase는
-사람 검토 후에만 다음 phase로 진행한다. 
+[doc/SPEC.md](doc/SPEC.md), phase별 구현 계획은 [doc/PLAN.md](doc/PLAN.md), phase별 상세 설계
+문서는 [doc/design/phase{N}.md](doc/design/) 참고. 각 phase는 사람 검토 후에만 다음 phase로
+진행한다.
 
 ## SubAgent 활용 지침
 
